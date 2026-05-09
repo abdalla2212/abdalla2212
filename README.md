@@ -112,6 +112,14 @@
 
 <div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=abdalla2212&theme=algolia&no-frame=true&row=1&column=6" />
+
+</div>
+
+<div align="center">
+
+---
+
 ##  CODE • CREATE • INNOVATE 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:24243e,50:302b63,100:00F7FF" />
