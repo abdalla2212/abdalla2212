@@ -14,7 +14,7 @@
 
 ---
 
-#  About Me
+# 🚀 About Me
 
 const abdalla = {
     location: "Egypt 🇪🇬",
@@ -30,7 +30,6 @@ const abdalla = {
     ],
     passion: "Building products that feel premium ✨"
 }
-
 
 
 ---
