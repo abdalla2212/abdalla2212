@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Abdalla Safwat ⚡
+#  Abdalla Safwat 
 
 ### Full Stack MERN Developer • UI Engineer • Backend Architect
 
@@ -14,24 +14,9 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-```js
-const abdalla = {
-    location: "Egypt 🇪🇬",
-    role: "Full Stack MERN Developer",
-    frontend: ["React", "Next.js", "TailwindCSS", "Redux"],
-    backend: ["Node.js", "Express.js", "NestJS"],
-    database: ["MongoDB", "Firebase", "MySQL"],
-    currentFocus: [
-        "Scalable SaaS Platforms",
-        "AI Integrations",
-        "Real-Time Systems",
-        "Modern UI/UX"
-    ],
-    passion: "Building products that feel premium ✨"
-}
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&width=900&lines=🇪🇬+Based+in+Egypt;💼+Full+Stack+MERN+Developer;⚡+Specialized+in+React+%26+Next.js;🧠+Building+Scalable+SaaS+Platforms;🎨+Crafting+Premium+UI%2FUX+Experiences;🤖+Interested+in+AI+Integrations;🔥+Obsessed+With+Modern+Web+Animations" /> <br/> <div align="center"> | Frontend | Backend | Database | Tools | |----------|----------|----------|----------| | React • Next.js • Tailwind | Node.js • Express • NestJS | MongoDB • Firebase • MySQL | Git • Docker • Figma | </div>
  
 ---
 
