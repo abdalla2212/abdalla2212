@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Abdalla Safwat ⚡
+#  Abdalla Safwat 
 
 ### Full Stack MERN Developer • UI Engineer • Backend Architect
 
@@ -14,13 +14,24 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 💻 Full Stack MERN Developer  
-- 🎨 Passionate about modern UI/UX  
-- ⚡ Building scalable SaaS platforms  
-- 🤖 Interested in AI integrations  
-- 📱 Working with Web & Mobile technologies  
+const abdalla = {
+    location: "Egypt 🇪🇬",
+    role: "Full Stack MERN Developer",
+    frontend: ["React", "Next.js", "TailwindCSS", "Redux"],
+    backend: ["Node.js", "Express.js", "NestJS"],
+    database: ["MongoDB", "Firebase", "MySQL"],
+    currentFocus: [
+        "Scalable SaaS Platforms",
+        "AI Integrations",
+        "Real-Time Systems",
+        "Modern UI/UX"
+    ],
+    passion: "Building products that feel premium ✨"
+}
+
+
 
 ---
 
