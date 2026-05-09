@@ -16,7 +16,7 @@
 
 # 🚀 About Me
 
-js```
+```js
 const abdalla = {
     location: "Egypt 🇪🇬",
     role: "Full Stack MERN Developer",
@@ -31,10 +31,11 @@ const abdalla = {
     ],
     passion: "Building products that feel premium ✨"
 }
-
+```
+ 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
