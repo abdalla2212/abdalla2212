@@ -95,15 +95,37 @@
 
 ---
 
-
+#  Connect With Me
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=abdalla2212&theme=algolia&no-frame=true&row=1&column=6" />
+<a href="https://github.com/abdalla2212" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" height="55" />
+</a>
+
+<a href="https://linkedin.com/in/abdalla-safwat-04b128243" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+</a>
+
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+</a>
 
 </div>
 
+<br/>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-abdalla2212-181717?style=for-the-badge&logo=github)](https://github.com/abdalla2212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdalla%20Safwat-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdalla-safwat-04b128243)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+</div>
+
+
 ---
+
 
 <div align="center">
 
