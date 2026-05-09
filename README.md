@@ -116,10 +116,10 @@
 
 </div>
 
-<div align="center">
-
 ---
 
+<div align="center">
+  
 ##  CODE • CREATE • INNOVATE 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:24243e,50:302b63,100:00F7FF" />
