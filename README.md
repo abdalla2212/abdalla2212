@@ -1,7 +1,7 @@
-````md
+```md
 <div align="center">
 
-#  Abdalla Safwat 
+# ⚡ Abdalla Safwat ⚡
 
 ### Full Stack MERN Developer • UI Engineer • Backend Architect
 
@@ -15,16 +15,13 @@
 
 ---
 
-#  About Me
+# 🚀 About Me
 
--  Full Stack MERN Developer
--  Passionate about modern UI/UX
--  Building scalable SaaS platforms
--  Interested in AI integrations
--  Working with Web & Mobile technologies
-
-
-````
+- 💻 Full Stack MERN Developer  
+- 🎨 Passionate about modern UI/UX  
+- ⚡ Building scalable SaaS platforms  
+- 🤖 Interested in AI integrations  
+- 📱 Working with Web & Mobile technologies  
 
 ---
 
@@ -54,20 +51,17 @@
 
 # 🌟 Featured Projects
 
-## 🍽️ LINDO Restaurant Landing Page
-
+## 🍽️ LINDO Restaurant Landing Page  
 > Premium animated restaurant website with immersive UI, responsive layout, and interactive menu experience.
 
 ---
 
-## 🧠 Dopamine Addiction Treatment Platform
-
+## 🧠 Dopamine Addiction Treatment Platform  
 > Full platform with therapist dashboards, AI integrations, real-time systems, and mobile support.
 
 ---
 
-## 📚 Teacher & Student Management System
-
+## 📚 Teacher & Student Management System  
 > Complete educational ecosystem with authentication, exams, dashboards, and course management.
 
 ---
@@ -88,11 +82,11 @@
 
 # ⚡ Current Goals
 
-* 🚀 Building high-end SaaS applications
-* 🎨 Mastering advanced UI/UX engineering
-* 🤖 Integrating AI into real-world products
-* 📱 Expanding into React Native & Mobile Apps
-* 🔥 Creating visually unforgettable experiences
+- 🚀 Building high-end SaaS applications  
+- 🎨 Mastering advanced UI/UX engineering  
+- 🤖 Integrating AI into real-world products  
+- 📱 Expanding into React Native & Mobile Apps  
+- 🔥 Creating visually unforgettable experiences  
 
 ---
 
