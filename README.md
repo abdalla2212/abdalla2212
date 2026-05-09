@@ -30,24 +30,6 @@
 
 ---
 
-#  Experience
-
-<div align="center">
-
-| Position | Type | Stack |
-|---|---|---|
-|  Full Stack MERN Developer | Freelance | React • Next.js • Node.js |
-|  UI/UX Engineer | Personal Projects | Tailwind • Framer Motion |
-|  Backend Developer | SaaS Systems | NestJS • MongoDB • Firebase |
-
-</div>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&width=900&lines=Building+Scalable+Backend+Architectures;Crafting+Premium+Frontend+Experiences;Working+With+Modern+MERN+Technologies;Focused+On+Performance+%26+Clean+Code" />
-
----
-
 #  Tech Stack
 
 <div align="center">
@@ -113,26 +95,7 @@
 
 ---
 
-#  Dev Philosophy
 
-```js
-while(alive) {
-   learn();
-   build();
-   improve();
-   repeat();
-}
- Current Goals
- Building high-end SaaS applications
- Mastering advanced UI/UX engineering
- Integrating AI into real-world products
- Expanding into React Native & Mobile Apps
- Creating visually unforgettable experiences
- Connect With Me
- Code • Create • Innovate ⚡
-```
-
----
 
 <div align="center">
 
