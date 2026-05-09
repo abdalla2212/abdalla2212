@@ -85,16 +85,6 @@
 
 ---
 
-#  Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
 #  Connect With Me
 
 <div align="center">
@@ -115,13 +105,6 @@
 
 <br/>
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-abdalla2212-181717?style=for-the-badge&logo=github)]
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdalla%20Safwat-0A66C2?style=for-the-badge&logo=linkedin)]
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)]
-
-</div>
 
 
 ---
