@@ -13,9 +13,9 @@
 </div>
 
 ---
-
 # 🚀 About Me
 
+```js
 const abdalla = {
     location: "Egypt 🇪🇬",
     role: "Full Stack MERN Developer",
@@ -30,7 +30,6 @@ const abdalla = {
     ],
     passion: "Building products that feel premium ✨"
 }
-
 
 ---
 
