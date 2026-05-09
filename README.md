@@ -14,91 +14,123 @@
 
 ---
 
-# ⚡ SYSTEM.INFO
+#  About Me
 
-```bash
-> Developer: Abdalla Safwat
-> Role: Full Stack MERN Developer
-> Location: Egypt 🇪🇬
-> Focus: SaaS • AI • UI/UX • Real-Time Apps
-> Status: Building premium digital experiences...
-````
-
----
-
-# 🧠 TECH MATRIX
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,nodejs,express,nestjs,mongodb,firebase,mysql,docker,git,github,linux,figma,vscode" />
-
-</div>
-
----
-
-# 🚀 CURRENT MISSION
-
-<div align="center">
-
-| Area       | Mission                           |
-| ---------- | --------------------------------- |
-| ⚡ Frontend | Building cinematic UI experiences |
-| 🧠 Backend | Designing scalable architectures  |
-| 🤖 AI      | Integrating intelligent systems   |
-| 📱 Mobile  | Expanding into React Native       |
-| 🎨 Design  | Mastering premium interactions    |
-
-</div>
-
----
-
-# 🌌 FEATURED PROJECTS
-
-<div align="center">
-
-| Project              | Description                                |
-| -------------------- | ------------------------------------------ |
-| 🍽️ LINDO Restaurant | Animated premium restaurant landing page   |
-| 🧠 Dopamine Platform | AI-powered addiction treatment ecosystem   |
-| 📚 Education System  | Full teacher & student management platform |
-
-</div>
-
----
-
-# 📊 GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=abdalla2212&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla2212&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&width=900&lines=🇪🇬+Based+in+Egypt;💼+Full+Stack+MERN+Developer;⚡+Specialized+in+React+%26+Next.js;🧠+Building+Scalable+SaaS+Platforms;🎨+Crafting+Premium+UI%2FUX+Experiences;🤖+Interested+in+AI+Integrations;🔥+Obsessed+With+Modern+Web+Animations" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla2212&theme=tokyonight&hide_border=true&background=00000000" />
+<div align="center">
+
+| Frontend | Backend | Database | Tools |
+|----------|----------|----------|----------|
+| React • Next.js • Tailwind | Node.js • Express • NestJS | MongoDB • Firebase • MySQL | Git • Docker • Figma |
 
 </div>
 
 ---
 
-# 🌐 CONNECT
+#  Experience
 
 <div align="center">
 
-<a href="https://github.com/abdalla2212">
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-</a>
-
-<a href="https://linkedin.com/in/abdalla-safwat-04b128243">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
-</a>
-
-<a href="mailto:your-email@example.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
-</a>
+| Position | Type | Stack |
+|---|---|---|
+|  Full Stack MERN Developer | Freelance | React • Next.js • Node.js |
+|  UI/UX Engineer | Personal Projects | Tailwind • Framer Motion |
+|  Backend Developer | SaaS Systems | NestJS • MongoDB • Firebase |
 
 </div>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&width=900&lines=Building+Scalable+Backend+Architectures;Crafting+Premium+Frontend+Experiences;Working+With+Modern+MERN+Technologies;Focused+On+Performance+%26+Clean+Code" />
+
+---
+
+#  Tech Stack
+
+<div align="center">
+
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,vite" />
+
+---
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,firebase,mysql" />
+
+---
+
+## Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux" />
+
+</div>
+
+---
+
+#  Featured Projects
+
+## 🍽️ LINDO Restaurant Landing Page  
+> Premium animated restaurant website with immersive UI, responsive layout, and interactive menu experience.
+
+---
+
+## 🧠 Dopamine Addiction Treatment Platform  
+> Full platform with therapist dashboards, AI integrations, real-time systems, and mobile support.
+
+---
+
+##  Teacher & Student Management System  
+> Complete educational ecosystem with authentication, exams, dashboards, and course management.
+
+---
+
+#  GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdalla2212&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalla2212&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdalla2212&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+#  Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+#  Dev Philosophy
+
+```js
+while(alive) {
+   learn();
+   build();
+   improve();
+   repeat();
+}
+ Current Goals
+ Building high-end SaaS applications
+ Mastering advanced UI/UX engineering
+ Integrating AI into real-world products
+ Expanding into React Native & Mobile Apps
+ Creating visually unforgettable experiences
+ Connect With Me
+ Code • Create • Innovate ⚡
+```
 
 ---
 
@@ -112,7 +144,7 @@
 
 <div align="center">
 
-## ⚡ CODE • CREATE • INNOVATE ⚡
+##  CODE • CREATE • INNOVATE 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:24243e,50:302b63,100:00F7FF" />
 
