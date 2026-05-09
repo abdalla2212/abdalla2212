@@ -16,7 +16,7 @@
 
 #  About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&width=900&lines=🇪🇬+Based+in+Egypt;💼+Full+Stack+MERN+Developer;⚡+Specialized+in+React+%26+Next.js;🧠+Building+Scalable+SaaS+Platforms;🎨+Crafting+Premium+UI%2FUX+Experiences;🤖+Interested+in+AI+Integrations;🔥+Obsessed+With+Modern+Web+Animations" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&width=900&lines=🇪🇬+Based+in+Egypt;+Full+Stack+MERN+Developer;+Specialized+in+React+%26+Next.js;+Building+Scalable+SaaS+Platforms;+Crafting+Premium+UI%2FUX+Experiences;+Interested+in+AI+Integrations;+Obsessed+With+Modern+Web+Animations" />
 
 <br/>
 
