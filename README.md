@@ -1,4 +1,4 @@
-````md id="1vw4bi"
+````md
 <div align="center">
 
 # ⚡ Abdalla Safwat ⚡
@@ -112,7 +112,7 @@ const abdalla = {
     <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://linkedin.com/in/abdalla-safwat-04b128243">
     <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
