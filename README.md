@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Abdalla Safwat 
+# ⚡ Abdalla Safwat ⚡
 
 ### Full Stack MERN Developer • UI Engineer • Backend Architect
 
@@ -13,9 +13,10 @@
 </div>
 
 ---
+
 # 🚀 About Me
 
-```js
+js```
 const abdalla = {
     location: "Egypt 🇪🇬",
     role: "Full Stack MERN Developer",
