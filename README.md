@@ -117,9 +117,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-abdalla2212-181717?style=for-the-badge&logo=github)](https://github.com/abdalla2212)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdalla%20Safwat-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdalla-safwat-04b128243)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abdalla2212-181717?style=for-the-badge&logo=github)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdalla%20Safwat-0A66C2?style=for-the-badge&logo=linkedin)]
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail)]
 
 </div>
 
